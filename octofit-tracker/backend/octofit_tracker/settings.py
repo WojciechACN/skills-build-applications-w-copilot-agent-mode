@@ -142,6 +142,7 @@ CORS_ALLOWED_ORIGINS = [
 
 # Allauth settings
 SITE_ID = 1
+REST_AUTH_TOKEN_MODEL = None
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
